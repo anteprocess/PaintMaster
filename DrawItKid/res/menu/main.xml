@@ -1,0 +1,9 @@
+<menu xmlns:android="http://schemas.android.com/apk/res/android" >
+
+    <item
+        android:id="@+id/commando"
+      
+        android:icon="@drawable/fileicon_htm"
+        android:title="Create new canvas?"/>
+
+</menu>
